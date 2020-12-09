@@ -19,8 +19,8 @@
 
 ## _Download_
 
-Baixe o arquivo abaixo. Descompacte na pasta desejada
-Download do arquivo.zip [clique Aqui](dist/calculadora.zip)
+Baixe o arquivo abaixo. Descompacte na pasta desejada<br>
+Download do arquivo.zip [Clique Aqui](dist/calculadora.zip)
 <hr>
 
 ## Agradecimentos

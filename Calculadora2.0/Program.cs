@@ -56,12 +56,6 @@ namespace Calculadora2._0
                         raiz();
                     }
 
-                    if (escolha != " ")
-                    {
-                        Console.Clear();
-                        Console.WriteLine("Digite somente a operação de acordo com a lista!");
-                    }
-
                     Console.Write("Deseja Sair? S/N: ");
                     sair = Console.ReadLine().ToUpper();
                 }

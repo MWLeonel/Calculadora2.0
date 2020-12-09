@@ -1,0 +1,5 @@
+C:\Users\Max\Desktop\Calculadora2.0\Calculadora2.0\bin\Release\netcoreapp3.1\publish\Calculadora2.0.exe
+C:\Users\Max\Desktop\Calculadora2.0\Calculadora2.0\bin\Release\netcoreapp3.1\publish\Calculadora2.0.dll
+C:\Users\Max\Desktop\Calculadora2.0\Calculadora2.0\bin\Release\netcoreapp3.1\publish\Calculadora2.0.deps.json
+C:\Users\Max\Desktop\Calculadora2.0\Calculadora2.0\bin\Release\netcoreapp3.1\publish\Calculadora2.0.runtimeconfig.json
+C:\Users\Max\Desktop\Calculadora2.0\Calculadora2.0\bin\Release\netcoreapp3.1\publish\Calculadora2.0.pdb
